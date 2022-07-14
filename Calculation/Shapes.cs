@@ -1,6 +1,6 @@
 ﻿namespace Calculation
 {
-    public class Area
+    public class Shapes
     {
 
     }
